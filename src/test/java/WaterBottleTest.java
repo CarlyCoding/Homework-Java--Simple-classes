@@ -1,5 +1,5 @@
 //These imports will not work.
-//I have copied in dependancies into pom.xml, still not working.
+//I have copied in dependancies into pom.xml, import unchanged.
 
 
 import org.junit.Before;
